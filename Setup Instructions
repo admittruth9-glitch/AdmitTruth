@@ -1,0 +1,26 @@
+Use these setup steps for this project:
+
+Install Node.js 18+.
+Open PowerShell in c:\Users\MANDALA SAI CHARAN\OneDrive\Desktop\AdmitTruth
+Install dependencies:
+npm install
+Start the app:
+npm run dev
+Open given local host link
+Useful extra commands:
+
+npm run build
+npm test
+npm run lint
+npm run preview
+A couple of repo-specific notes:
+
+The app is a Vite + React + TypeScript project, based on package.json.
+The dev server is configured for port 8080, based on vite.config.mts.
+I did not find any required .env setup in the source, so npm install + npm run dev should be enough.
+I verified that npm run build and npm test both work in this repo.
+If you want, I can also give you:
+
+beginner-friendly setup steps
+VS Code setup steps
+deployment steps
